@@ -1,6 +1,17 @@
-# TikTakToe
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+## TikTakToe
+  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
+## General info
+  Tic-tac-toe is a simple, two-player game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does to be considered a winner.
+## Technologies used
+* Angular CLI - version 16.2.4
+* Bootstrap - version 5.3.3
+* FortAwesome - version 0.9.0
+* NgxToaster - version 18.0.0
+## Features
+The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. An opponent can prevent a win by blocking the completion of the opponent's line.
+* Event trigger logic for players to take turn
+* Parent child component interaction
+* Integration of third party libraries
 
 ## Development server
 
